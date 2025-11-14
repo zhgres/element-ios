@@ -149,5 +149,9 @@
 	<string>$(BASE_BUNDLE_IDENTIFIER)</string>
 	<key>keychainAccessGroup</key>
 	<string>$(KEYCHAIN_ACCESS_GROUP)</string>
+<key>com.apple.security.application-groups</key>
+<array>
+    <string>group.kz.zhgres.chat</string>
+</array>
 </dict>
 </plist>
