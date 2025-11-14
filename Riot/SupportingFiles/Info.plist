@@ -153,5 +153,9 @@
 <array>
     <string>group.kz.zhgres.chat</string>
 </array>
+<key>keychain-access-groups</key>
+<array>
+    <string>$(AppIdentifierPrefix)kz.zhgres.chat</string>
+</array>
 </dict>
 </plist>
